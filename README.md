@@ -30,6 +30,6 @@ In the dataset ppData, it was observed that the affymetrix microarray probe ids 
 Initially, the formula was fixed using both a fixed effect and the random effects. Here, batch, cellType, Sex and individual are random effects, and they are categorical in nature. The expression dataset includes 984 samples with more than 30000 probe ids. Variation due to every aspect of the study design with respect to each gene expression was analyzed. The results will give information at gene level that goes with or deviate from the genome wide trend. A linear mixed model was used in this analysis. The above box plots provide information about percent variation in the gene expression by each variable. It was observed that the multiple variables contribute to expression variation in this dataset. It was observed that the variation across the cell types was more than followed by the individual. It is also observed that the sex accelerated variation in a smaller number of genes whereas age showed negligible effect on gene expression. Although the effect due to batch is much higher in this expression dataset, biological variation across cell types, individual is more meaningful.
 
 <p float="left">
-  <img src="plots/3.1.PNG" width="300"/>
+  <img src="plots/3.1.PNG" width="300" length="200"/>
 </p>
 
