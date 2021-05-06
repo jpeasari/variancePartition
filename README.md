@@ -23,3 +23,6 @@ In the dataset ppData, it was observed that the affymetrix microarray probe ids 
   <img src="plots/1.PNG" width="300"/>
   <img src="plots/2.PNG" width="300" /> 
 </p>
+<p>
+    <em>CHH analysis and CNN analysis</em>
+</p>
