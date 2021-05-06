@@ -20,6 +20,6 @@ In the dataset ppData, it was observed that the affymetrix microarray probe ids 
 ### Results
 
 <p float="left">
-  <img src="plots/1.PNG" width="200"/>
-  <img src="plots/2.PNG" width="170" /> 
+  <img src="plots/1.PNG" width="300"/>
+  <img src="plots/2.PNG" width="300" /> 
 </p>
