@@ -40,6 +40,11 @@ Variation aims to identify genes that vary along different aspects of the experi
   <img src="plots/4.PNG" width="300"/>
   <img src="plots/5.PNG" width="300" /> 
 </p>
+<p float="left">
+  <img src="plots/1.PNG" width="300"/>
+  <em>Expression of RBPJ gene stratified by the cell type</em>
+   <img src="plots/2.PNG" width="300" /> 
+</p>
 
 
 
