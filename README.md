@@ -31,8 +31,12 @@ Initially, the formula was fixed using both a fixed effect and the random effect
 
 <p float="left">
   <img src="plots/3.1.PNG" width="300" length="500"/>
-  <em>Expression of RPS4Y1 by sex </em>
 </p>
+
+<p>
+    <em>Expression of RPS4Y1 by sex </em>
+</p>
+  
 
 Variation aims to identify genes that vary along different aspects of the experimental design. It was observed that the gene RPS4Y1 showed strong expression difference when stratified by sex. This expression was more in males than females.
 
