@@ -48,5 +48,27 @@ Variation aims to identify genes that vary along different aspects of the experi
 <p>
    <em>Expression of RBPJ gene stratified by the cell type      ||        Expression of GSTM1 stratified by individual</em>
 </p>
+Visualization of subset of genes demonstrates that he higher gene expression difference when stratified by cellType and individual. 
+Here, we can have a gene level resolution in each effect. The expression was more in CD4 T cell than monocytes. 
+For the gene GSTM1, the variation across individual explains 89.4% of variation in the gene expression.
+
+<p float="left">
+  <img src="plots/6.PNG" width="300" length="500"/>
+</p>
+
+<p>
+    <em>Canonical Correlation analysis (CCA)</em>
+</p>
+
+Accessing the correlation between all pairs of variables. It is important to evaluate correlation between variables in interpreting variancepartition output. Here, canonical correlation analysis (CCA) shows the correlation between two vectors and returns pairwise correlation matrix. Results indicates that they is a string correlation between Sex and the individual.
+
+### Analyzing variation using interaction terms
+
+Here, an interaction effect was introduced inside the formula i.e., (1|Batch:Sex). I tried to model an interaction effect where the effect of batch depends on Sex. It was observed that the variation due to the interaction effect was negligible and does not explain much expression variation.
+
+<p float="left">
+  <img src="plots/7.PNG" width="300" length="500"/>
+</p>
+
 
 
