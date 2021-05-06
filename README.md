@@ -42,7 +42,7 @@ Variation aims to identify genes that vary along different aspects of the experi
 </p>
 
 <p>
-   <em>Expression of RBPJ gene stratified by the cell type              Expression of GSTM1 stratified by individual</em>
+   <em>Expression of RBPJ gene stratified by the cell type      ||        Expression of GSTM1 stratified by individual</em>
 </p>
 
 
