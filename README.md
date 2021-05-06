@@ -38,7 +38,7 @@ Variation aims to identify genes that vary along different aspects of the experi
 
 <p float="left">
   <img src="plots/4.PNG" width="300"/>
-  <img src="plots/5.PNG" width="300" /> 
+  <float="float: right;"img src="plots/5.PNG" width="300" /> 
 </p>
 
 <p>
