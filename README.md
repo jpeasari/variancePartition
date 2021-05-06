@@ -31,5 +31,8 @@ Initially, the formula was fixed using both a fixed effect and the random effect
 
 <p float="left">
   <img src="plots/3.1.PNG" width="300" length="500"/>
+  <em>Expression of RPS4Y1 by sex </em>
+
 </p>
+
 
